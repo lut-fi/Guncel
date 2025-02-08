@@ -5,4 +5,6 @@ Emacs'da pdf okumak çok eğlenceli. PDF Tools ile. Not düşebiliyorsun. Kelime
 Ama ben nedense Okular ile çalışmaya devam ediyorum. Alışıncaya kadar gidip gelmeler yapmak gerekecek sanırım. Evet. 
 
 Bugün 8 Şubat 2025. 
-Evet doğru Bugün 8 Şubat. Cumartesi. 
+Evet doğru Bugün 8 Şubat. Cumartesi.
+
+Yarın 9 Şubat Pazar. Ama çok uzak şu anda. 
