@@ -8,3 +8,5 @@ Bugün 8 Şubat 2025.
 Evet doğru Bugün 8 Şubat. Cumartesi.
 
 Yarın 9 Şubat Pazar. Ama çok uzak şu anda. 
+
+Daha sonraki gün okulların açılışı. 10 şubat. 
